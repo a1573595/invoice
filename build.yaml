@@ -1,0 +1,9 @@
+targets:
+  $default:
+    builders:
+      slang_build_runner:
+        options:
+          base_locale: en
+          input_directory: lib/common/i18n
+          output_directory: lib/common/gen
+          translation_overrides: true

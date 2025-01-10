@@ -1,0 +1,17 @@
+{
+  "appName": "發票",
+  "awards": "獎項",
+  "cancel": "取消",
+  "darkMode": "深色模式",
+  "firstPrize": "頭獎",
+  "grandPrize": "特獎",
+  "lightMode": "亮色模式",
+  "language(map)": {
+    "en": "英文",
+    "zh": "中文"
+  },
+  "nothing": "沒有東西",
+  "number": "號碼",
+  "save": "儲存",
+  "specialPrize": "特別獎"
+}

@@ -1,0 +1,17 @@
+{
+  "appName": "Invoice",
+  "awards": "Awards",
+  "cancel": "Cancel",
+  "darkMode": "Dark mode",
+  "firstPrize": "First Prize",
+  "grandPrize": "Grand Prize",
+  "language(map)": {
+    "en": "English",
+    "zh": "Chinese"
+  },
+  "lightMode": "Light mode",
+  "nothing": "Nothing",
+  "number": "Number",
+  "save": "Save",
+  "specialPrize": "Special Prize"
+}
